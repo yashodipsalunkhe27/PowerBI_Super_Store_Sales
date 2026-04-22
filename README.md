@@ -29,12 +29,6 @@ This project presents an interactive Power BI dashboard built to analyze Super S
 
 ---
 
-## 🔗 Live Dashboard
-
-👉 [View Power BI Dashboard](paste-your-powerbi-link-here)
-
----
-
 ## 📁 Project Files
 
 * SuperStore.pbix
@@ -45,7 +39,7 @@ This project presents an interactive Power BI dashboard built to analyze Super S
 
 ## 💡 Key Insights
 
-* West region generated the highest sales
+* West region consistently leads in sales, indicating strong market demand and customer base
 * Technology category contributed the most profit
 * High discounts negatively impact profit margins
 
