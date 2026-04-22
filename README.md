@@ -24,7 +24,7 @@ This project presents an interactive Power BI dashboard built to analyze Super S
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot 1](your-image-link-here)
+![Dashboard Screenshot 1](https://github.com/yashodipsalunkhe27/PowerBI_Super_Store_Sales/blob/main/Screenshot%202026-04-22%20101014.png?raw=true)
 ![Dashboard Screenshot 2](your-image-link-here)
 
 ---
